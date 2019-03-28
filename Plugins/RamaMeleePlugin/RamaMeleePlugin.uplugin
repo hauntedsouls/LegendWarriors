@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Rama Melee Plugin",
+	"Description": "This plugin gives you the Rama Melee Weapon component which you can use to do per-bone accurate collision sweeps with melee weapons!",
+	"Category": "Rama",
+	"CreatedBy": "Rama",
+	"CreatedByURL": "http://www.ue4code.com",
+	"DocsURL": "http://www.ue4code.com",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/67e8100f9f3f40f293d44c95194e177c",
+	"SupportURL": "http://www.ue4code.com",
+	"EngineVersion": "4.21.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "RamaMeleePlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"HTML5"
+			]
+		}
+	]
+}
