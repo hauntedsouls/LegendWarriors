@@ -10,7 +10,7 @@
 	"DocsURL": "http://www.ue4code.com",
 	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/67e8100f9f3f40f293d44c95194e177c",
 	"SupportURL": "http://www.ue4code.com",
-	"EngineVersion": "4.21.0",
+	"EngineVersion": "4.22.0",
 	"CanContainContent": false,
 	"Installed": true,
 	"Modules": [
